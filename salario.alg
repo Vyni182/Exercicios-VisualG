@@ -1,5 +1,5 @@
-algoritmo "circulo"
-
+algoritmo "Salario"
+// calcula o salario a partir das horas trabalhadas e o valor por hora recebido.
 var
 valorH, jornada, valorfinal: inteiro
 nome: caractere
