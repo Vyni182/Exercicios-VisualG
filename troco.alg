@@ -1,4 +1,4 @@
-algoritmo "Nome do Programa"
+algoritmo "troco"
 
 var
 
