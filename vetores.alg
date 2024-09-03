@@ -1,5 +1,5 @@
-algoritmo "Nome do Programa"
-
+algoritmo "vetores"
+//encontrar o menor numero dentro do vetor e organizar eles em ordem crescente
 
 
 
