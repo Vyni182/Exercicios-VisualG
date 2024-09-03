@@ -1,6 +1,6 @@
   algoritmo "retangulo"
 
-  //Vyni182
+  //
 
   var
 
