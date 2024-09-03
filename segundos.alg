@@ -1,5 +1,5 @@
-algoritmo "consumo"
-
+algoritmo "segundos"
+//realiza a conversão de uma duração expressa em segundos para o formato horas:minutos:segundos
 var
 restoSegundos, duracao, horas, minutos, segundosFinais: inteiro
 
