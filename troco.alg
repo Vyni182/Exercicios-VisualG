@@ -1,5 +1,5 @@
 algoritmo "circulo"
-
+//  calcula a área de um círculo.
 var
 
 r, area: real
