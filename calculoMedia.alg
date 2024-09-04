@@ -1,20 +1,23 @@
 algoritmo "Calcula Média e Resultado Final"
 
 var
-    n1, n2, n3: inteiro
+
+    n: vetor [0..2] de inteiro 
     media: real
 
 inicio
+
     escreva("Digite a primeira nota: ")
-    leia(n1)
+    leia(n[0])
     
     escreva("Digite a segunda nota: ")
-    leia(n2)
+    leia(n[1])
     
     escreva("Digite a terceira nota: ")
-    leia(n3)
+    leia(n[2])
 
-    media <- (n1 + n2 + n3) / 3
+
+    media <- (n[0] + n[1] + n[2]) / 3
 
     se media >= 7 entao
         escreval("APROVADO!!")
@@ -25,5 +28,6 @@ inicio
             escreval("REPROVADO!!")
         fimse
     fimse
+
 
 fimalgoritmo
